@@ -1,4 +1,4 @@
-Movie Recommendation System
+## Movie Recommendation System
 This project is a machine learning-based movie recommendation system that suggests similar movies based on user preferences. It uses cosine similarity to find relationships between movies and provides an interactive web interface built with Streamlit.
 
 ## Features
