@@ -20,5 +20,9 @@ The system processes movie metadata and creates similarity scores using vectoriz
 ## Deployment
 This project can be deployed using Streamlit Cloud for easy access and sharing.
 
+## Preview
+![WhatsApp Image 2026-04-01 at 7 24 20 PM](https://github.com/user-attachments/assets/1b1c3a21-a554-4ef6-95e5-2d6bf88b343e)
+
+
 ## Author
 Mayank Kumar
